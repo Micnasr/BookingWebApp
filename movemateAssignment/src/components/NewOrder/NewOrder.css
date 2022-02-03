@@ -1,0 +1,30 @@
+.new-order {
+    background-color: rgb(224, 224, 224);
+
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  .new-order button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(242,80,109);
+    font-weight: bold;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
+  
+  .new-order button:hover,
+  .new-order button:active {
+    background-color: rgb(219, 58, 87);
+    border-color: rgb(0, 0, 0);
+  }
+  
